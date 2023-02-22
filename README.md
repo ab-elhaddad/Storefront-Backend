@@ -1,6 +1,6 @@
 # Storefront Backend
 
-### A Backend system in Typescript built in NodeJS using Express
+### A Backend system for purchase store implemented in Typescript built in NodeJS using Express
 
 ### Database built in PostgreSQL
 
